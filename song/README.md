@@ -2,18 +2,30 @@
 * 热恋
   * [想把我唱给你听](in-love/want-to-intro-me-to-you-with-a-song.md)
   * [玫瑰人生](in-love/la-vie-en-rose.md)
-  * [甜蜜蜜](in-love/honey-sweet.md)
   * [突然想起你](in-love/miss-you.md)
   * [突然好想你](in-love/sudden-miss-you.md)
   * [坐在巷口的那对男女](in-love/lover-site-in-load.md)
+  * [因为爱情](in-love/because-of-love.md)
+  * [分开旅行](in-love/part-to-travel.md)
   * [董小姐](in-love/miss-dong.md)
   * [我爱官恩娜，都不及爱你的哨牙](in-love/love-you-than-anyone.md)
+  * [男人女儿](in-love/man-and-woman.md)
+  * [仙剑问情](in-love/sword-ask-love.md)
+  * [你的微笑](in-love/you-smile.md)
+  * [Lost in Paradise](in-love/lost-in-paradise.md) [中文版]:有你的快乐。
+  * [Yellow](in-love/yellow.md)
+  * [The Scientist](in-love/scientist.md)
+  * [甜蜜蜜](in-love/honey-sweet.md)
 * 清吟浅唱
   * [Moon river](whisper/moon-river.md)
   * [Oh My Love](whisper/oh-my-love.md)
   * [Unintended](whisper/unintended.md)
   * [The Sound Of Silence](whisper/the-sound-of-silence.md)
+  * [Yesterday](whisper/yesterday.md)
+  * [Wake Me Up When September Ends](whisper/wake-me-up-when-september-ends.md)
   * [风吹麦浪](whisper/wind-blow-wheat.md)
+  * [岛歌](whisper/island-song.md)
+  * [向日葵之歌](whisper/sunflower-song.md)
   * [平凡之路](whisper/normal-road.md)
   * [蓝莲花](whisper/blue-lotus.md)
   * [旅行](whisper/travel.md)
@@ -21,29 +33,53 @@
   * [淡淡的歌](whisper/light-song.md)
   * [斑马斑马](whisper/zebra-zebra.md)
   * [美孚根斯堡与白田珍宝金](whisper/mfgsb-and-btzbj.md)
+  * [Trouble is a friend](whisper/trouble-is-a-friend.md)
+  * [The Show](whisper/the-show.md)
+  * [别找我麻烦](whisper/do-not-trouble.md)
+  * [阴天](whisper/cloudy-day.md)
+  * [仓央嘉措情歌](whisper/cyjc-love-song.md)
+  * [烟](whisper/smoke.md)
 * 轻音乐
   * [Summer-菊次郎の夏](soft/summer.md)
   * [月光の雲海](soft/moon-sea.md)
   * [あの夏へ](soft/あの夏へ.md)
+  * 我在那一角落患过伤风
 * 淡淡的悲伤
   * [一生所爱](sad/all-life-love.md) 相亲竟不可接近。
   * [很爱很爱你](sad/love-you-very-much.md)
+  * [盛夏的果实](sad/summer-fruit.md)
+  * [他不爱我](sad/he-not-love-me.md)
+  * [听海](sad/hear-sea.md)
+  * [最长的电影](sad/longest-film.md)
+  * [我怀念的](sad/i-missed.md)
+  * [Lydia](sad/lydia.md)
+  * [我们的爱](sad/our-love.md)
+  * [刺鸟](sad/cibird.md)
   * [那些花儿](sad/those-flowers.md)
   * [知足](sad/content.md)
   * [Just One Last Dance](sad/just-one-last-dance.md)
+  * [我睡在你眼睛的沙漠里](sad/sleep-in-your-eye-desert.md)
+  * [冷风过境](sad/cold-wind-come.md)
   * [忧伤的嫖客](sad/sad-piaoke.md)
   * [我们长的不漂亮](sad/not-beautiful.md)
   * [我要的飞翔](sad/want-to-fly.md)
   * [那年夏天](sad/that-summer.md)
   * [拥有你的日子](sad/owe-you-day.md)
   * [年少](sad/young.md)
+  * [同桌的你](sad/deskmate.md)
   * [风筝](sad/kite.md)
   * [山丘](sad/climbed-the-hill.md) 越过山丘，才发现无人等候。喋喋不休，再也唤不回温柔。
+  * [黄昏](sad/dusk.md)
+  * [蝴蝶](sad/butterfly.md)
 * 欢乐
   * [在动物园散步才是正经事](happy/walk-in-zoo.md)
   * [咖喱咖喱](happy/curry-curry.md)
+  * [无乐不作](happy/do-happy-things.md)
+  * [宾克斯的美酒](happy/bks-wine.md)
+  * [火](happy/fire.md)
   * [Makudonarudo](happy/makudonarudo.md)
   * [在路上](happy/on-load.md)
+  * [一只想变成橘子的苹果](happy/an-apple-want-to-be-orange.md)
 * 迷幻
   * [Toes](psychedelic/toes.md)
   * [Supermassive Black Hole](psychedelic/supermassive-black-hole.md)
@@ -51,14 +87,17 @@
   * [沧海一声笑](passion/sea-laugh.md)
   * [笑傲江湖](passion/good-at-in-jianghu.md)
   * [铁血丹心](passion/blood-and-heart.md)
-
+  * [Viva La Vida](passion/viva-la-vida.md)
 
 ## 歌手
 * 女
   * 张悬
   * 陈绮贞
+  * 王若琳
   * 许飞
   * 曹方
+  * 陈粒
+  * 程璧
   * 孙燕姿
   * 王菲
   * 刘若英
@@ -67,6 +106,8 @@
   * 萧亚轩
 * 男
   * 李宗盛
+  * 张震岳
+  * 周华健
   * 周杰伦
   * 许巍
   * 李健
@@ -77,6 +118,7 @@
   * My little airport
   * Tizzy Bac
   * Coldplay
+  * Green day
   * Muse
   * 五月天
   * 麦田里的守望者
