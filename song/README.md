@@ -43,7 +43,8 @@
   * [Summer-菊次郎の夏](soft/summer.md)
   * [月光の雲海](soft/moon-sea.md)
   * [あの夏へ](soft/あの夏へ.md)
-  * 我在那一角落患过伤风
+  * 我在那一角落患过伤风 。daling daling~
+  * 再见警察。 无间道 - 插曲。
 * 淡淡的悲伤
   * [一生所爱](sad/all-life-love.md) 相亲竟不可接近。
   * [很爱很爱你](sad/love-you-very-much.md)
