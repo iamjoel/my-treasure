@@ -20,6 +20,9 @@
   * [知足](sad/content.md)
   * [Just One Last Dance](sad/just-one-last-dance.md)
   * [山丘](sad/climbed-the-hill.md) 越过山丘，才发现无人等候。喋喋不休，再也唤不回温柔。
+* 欢乐
+  * [咖喱咖喱](happy/curry-curry.md)
+  * [Makudonarudo](happy/makudonarudo.md)
 * 迷幻
   * [Toes](psychedelic/toes.md)
   * [Supermassive Black Hole](psychedelic/supermassive-black-hole.md)
