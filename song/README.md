@@ -19,8 +19,10 @@
   * [很爱很爱你](sad/love-you-very-much.md)
   * [知足](sad/content.md)
   * [Just One Last Dance](sad/just-one-last-dance.md)
+  * [忧伤的嫖客](sad/sad-piaoke.md)
   * [山丘](sad/climbed-the-hill.md) 越过山丘，才发现无人等候。喋喋不休，再也唤不回温柔。
 * 欢乐
+  * [在动物园散步才是正经事](happy/walk-in-zoo.md)
   * [咖喱咖喱](happy/curry-curry.md)
   * [Makudonarudo](happy/makudonarudo.md)
 * 迷幻
