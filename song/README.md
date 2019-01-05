@@ -19,6 +19,8 @@
   * [关于我爱你](in-love/about-i-love-you.md)
   * [我想和你虚度时光](in-love/i-want-to-with-you-all-the-time.md)
   * [给少年的歌](in-love/write-to-young.md)
+  * [思念是一种病](in-love/miss-is-sick.md)
+  * [我是一只鱼](in-love/i-am-a-fish.md)
 * 清吟浅唱
   * [Moon river](whisper/moon-river.md)
   * [Oh My Love](whisper/oh-my-love.md)
@@ -27,6 +29,7 @@
   * [Yesterday](whisper/yesterday.md)
   * [Wake Me Up When September Ends](whisper/wake-me-up-when-september-ends.md)
   * [风吹麦浪](whisper/wind-blow-wheat.md)
+  * [桃花源](whisper/out-world-beautiful-place.md)
   * [岛歌](whisper/island-song.md)
   * [向日葵之歌](whisper/sunflower-song.md)
   * [平凡之路](whisper/normal-road.md)
@@ -44,6 +47,7 @@
   * [阴天](whisper/cloudy-day.md)
   * [仓央嘉措情歌](whisper/cyjc-love-song.md)
   * [烟](whisper/smoke.md)
+  * [晓之车](whisper/early-morning-car.md)
 * 轻音乐
   * [Summer-菊次郎の夏](soft/summer.md)
   * [月光の雲海](soft/moon-sea.md)
@@ -59,10 +63,23 @@
   * [最长的电影](sad/longest-film.md)
   * [我怀念的](sad/i-missed.md)
   * [我想你要走了](sad/i-think-you-would-go.md)
+  * [天下有情人](sad/all-lover.md)
+  * [重来](sad/again.md)
+  * [没那么简单](sad/not-that-easy.md)
+  * [好久不见](sad/long-time-no-see.md) VS [不如不见](sad/better-no-see.md)
+  * [红玫瑰](sad/hot-lover.md) VS [白玫瑰](sad/cold-lover.md)
+  * [爱情呼叫转移](sad/lover-change-people.md) VS [富士山下](sad/mount-fuji.md)
+  * [笑红尘](sad/smile-to-life.md)
+  * [伤心太平洋](sad/sad-pacific.md)
+  * [不想睡](sad/not-want-to-sleep.md)
+  * [问](sad/ask.md)
+  * [给自己的歌](sad/song-to-me.md)
   * [Lydia](sad/lydia.md)
   * [我们的爱](sad/our-love.md)
   * [刺鸟](sad/cibird.md)
+  * [陀飞轮](sad/watch.md)
   * [那些花儿](sad/those-flowers.md)
+  * [往日时光](sad/passed-days.md)
   * [知足](sad/content.md)
   * [恋恋风尘](sad/love-life.md)
   * [Just One Last Dance](sad/just-one-last-dance.md)
@@ -78,6 +95,7 @@
   * [风筝](sad/kite.md)
   * [山丘](sad/climbed-the-hill.md) 越过山丘，才发现无人等候。喋喋不休，再也唤不回温柔。
   * [黄昏](sad/dusk.md)
+  * [花太香](sad/flower-smell-too-nice.md)
   * [蝴蝶](sad/butterfly.md)
   * [一腔诗意喂了狗](sad/poem-to-dog.md)
 * 欢乐
@@ -96,7 +114,10 @@
   * [沧海一声笑](passion/sea-laugh.md)
   * [笑傲江湖](passion/good-at-in-jianghu.md)
   * [铁血丹心](passion/blood-and-heart.md)
+  * [任逍遥](passion/be-freedom.md)
   * [Viva La Vida](passion/viva-la-vida.md)
+* 其他
+  * [蓝色骨头](other/blue-bone.md)
 
 ## 歌手
 * 女
@@ -111,12 +132,16 @@
   * 王菲
   * 刘若英
   * 林忆莲
+  * 蔡健雅
+  * 黄小琥
+  * 林忆莲
   * 花粥
   * 萧亚轩
 * 男
   * 李宗盛
   * 张震岳
   * 周华健
+  * 陈奕迅
   * 周杰伦
   * 许巍
   * 李健
