@@ -4,6 +4,7 @@
   * [玫瑰人生](in-love/la-vie-en-rose.md)
   * [突然想起你](in-love/miss-you.md)
   * [突然好想你](in-love/sudden-miss-you.md)
+  * [纯文艺恋爱](in-love/pure-art-love.md)
   * [坐在巷口的那对男女](in-love/lover-site-in-load.md)
   * [因为爱情](in-love/because-of-love.md)
   * [分开旅行](in-love/part-to-travel.md)
@@ -20,6 +21,7 @@
   * [我想和你虚度时光](in-love/i-want-to-with-you-all-the-time.md)
   * [给少年的歌](in-love/write-to-young.md)
   * [思念是一种病](in-love/miss-is-sick.md)
+  * [想你的三百六十五天](in-love/miss-you-everyday.md)
   * [我是一只鱼](in-love/i-am-a-fish.md)
 * 清吟浅唱
   * [Moon river](whisper/moon-river.md)
@@ -40,6 +42,7 @@
   * [南国的孩子](whisper/south-child.md)
   * [淡淡的歌](whisper/light-song.md)
   * [斑马斑马](whisper/zebra-zebra.md)
+  * [奇妙能力歌](whisper/strage-ablity-song.md)
   * [美孚根斯堡与白田珍宝金](whisper/mfgsb-and-btzbj.md)
   * [Trouble is a friend](whisper/trouble-is-a-friend.md)
   * [The Show](whisper/the-show.md)
@@ -47,6 +50,7 @@
   * [阴天](whisper/cloudy-day.md)
   * [仓央嘉措情歌](whisper/cyjc-love-song.md)
   * [烟](whisper/smoke.md)
+  * [漂洋过海来看你](whisper/oversea-to-see-you.md)
   * [晓之车](whisper/early-morning-car.md)
 * 轻音乐
   * [Summer-菊次郎の夏](soft/summer.md)
@@ -66,12 +70,20 @@
   * [天下有情人](sad/all-lover.md)
   * [重来](sad/again.md)
   * [没那么简单](sad/not-that-easy.md)
+  * [一直很安静](sad/always-quiet.md)
+  * [听寂寞在唱歌](sad/lonely-is-singing.md)
+  * [叶子](sad/leaf.md)
+  * [遗憾](sad/regret.md)
+  * [Almost Lover](sad/almost-lover.md)
+  * [新不了情](sad/can-not-forget-love.md)
   * [好久不见](sad/long-time-no-see.md) VS [不如不见](sad/better-no-see.md)
   * [红玫瑰](sad/hot-lover.md) VS [白玫瑰](sad/cold-lover.md)
   * [爱情呼叫转移](sad/lover-change-people.md) VS [富士山下](sad/mount-fuji.md)
+  * [时间煮雨](sad/time-burn-rain.md)
   * [笑红尘](sad/smile-to-life.md)
   * [伤心太平洋](sad/sad-pacific.md)
   * [不想睡](sad/not-want-to-sleep.md)
+  * [爱玲](sad/ailing.md)
   * [问](sad/ask.md)
   * [给自己的歌](sad/song-to-me.md)
   * [Lydia](sad/lydia.md)
@@ -128,6 +140,7 @@
   * 曹方
   * 陈粒
   * 程璧
+  * 阿桑
   * 孙燕姿
   * 王菲
   * 刘若英
@@ -157,3 +170,4 @@
   * 五月天
   * 麦田里的守望者
   * 自然卷
+  * 龙宽九段
