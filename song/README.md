@@ -76,6 +76,7 @@
   * [遗憾](sad/regret.md)
   * [Almost Lover](sad/almost-lover.md)
   * [新不了情](sad/can-not-forget-love.md)
+  * [夜空中最亮的星](sad/lightest-star-in-night.md)
   * [好久不见](sad/long-time-no-see.md) VS [不如不见](sad/better-no-see.md)
   * [红玫瑰](sad/hot-lover.md) VS [白玫瑰](sad/cold-lover.md)
   * [爱情呼叫转移](sad/lover-change-people.md) VS [富士山下](sad/mount-fuji.md)
