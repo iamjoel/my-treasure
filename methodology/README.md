@@ -23,6 +23,9 @@
 * 分析问题
   * [5W1H分析法](5W1H分析法)
 
+## 其他方法
+* [Scrum](scrum) 敏捷开发。
+
 
 ## 详情
 * [七大管理工具：SWOT、PDCA、6W2H、SMART、WBS、时间管理](https://www.jianshu.com/p/f85a746c8eec)
